@@ -146,7 +146,7 @@ python stitching_IMT2022069.py
   ***Image Matches***  
   ![detected_coins](Output_IMAGES/image_matches.jpg)
   ***Final Panorama***
-  ![detected_coins](Output_IMAGES/merged_output.jpg)
+  ![detected_coins](Output_IMAGES/stitched_panorama.jpg)
   
 
 ---
